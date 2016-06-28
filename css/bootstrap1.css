@@ -1,0 +1,30 @@
+
+h2{
+  text-align: center;
+}
+.row{
+  margin-top: 100px;
+  margin-right:20px;
+  margin-left: 30px;
+}
+h3,h4,h5{
+  color: white;
+}
+
+footer{
+margin-top: 50px;
+padding-bottom: 30px;
+padding-top: -10px;
+}
+#main2 h2{
+  text-align: center;
+  color: white;
+  margin-left: 250px;
+}
+.book{
+  margin-right: 0px;
+}
+body{
+ background-image: url("../images/b1.jpg");
+
+}
